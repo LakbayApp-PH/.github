@@ -36,11 +36,16 @@ promote tourism, and support regional development.
 # 🗺️ Mapping & Geolocation
 ```
 -   Google Maps API – Real‑time navigation and location data
+-   Mapbox - for Real Time navigation
 ```
 🤖 AI & Intelligent Features
 ```
 -   Gemini API – Smart recommendations, summarization, assistance
 -   Vertex AI – ML models and data processing
+```
+💳 Payment Features
+```
+-   Paymongo
 ```
 ------------------------------------------------------------------------
 
